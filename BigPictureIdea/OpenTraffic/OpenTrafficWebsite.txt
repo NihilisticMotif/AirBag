@@ -1,0 +1,8 @@
+DESCRIPTION (https://datacollaboratives.org/cases/opentraffic.html)
+    The World Bank, Conveyal, and Mapzen formed the nonprofit OpenTraffic to support open source software development and collect accurate, 
+    real-time traffic data from individuals and organizations across the transport sector. 
+    By partnering with transport organizations around the world, OpenTraffic is able to access and pool this anonymized traffic data to 
+    create a complete dataset of traffic and routing data available free to the public. 
+    This data intends to support community planning and businesses decision-making, 
+    in addition to providing the public with access to high-quality traffic data.
+    

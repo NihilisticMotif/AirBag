@@ -1,0 +1,14 @@
+
+Idea 
+1. Traffic Prediction 
+* Predict bottlenecks, peak traffic times, accidents, road closures etc. 
+* Use data from GPS data, traffic cameras, Google Maps, Grab etc.
+2. Improve Traffic Light System 
+3. Collect traffic data and driver report from user app.
+4. Improve public transportation system e.g. routes, schedules, and frequency
+5. Predict the demand of public transportation 
+6. Simulations for Urban Planning
+* Create simulations that show how different infrastructure and policy changes (e.g., new roads, bike lanes) might affect traffic.
+7. Analyze the relationship between traffic patterns and air pollution (e.g. PM2.5 etc.).
+8. Find the path that have less traffic congestion for the user.
+

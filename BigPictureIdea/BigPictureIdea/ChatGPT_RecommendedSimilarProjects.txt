@@ -1,0 +1,82 @@
+
+Similar Open Source Project Lists
+1. SUMO (Simulation of Urban MObility)
+    * Description  
+        * It is Traffic Simulation package designed to handle large road networks.
+    * Purpose      
+        * You can use SUMO to simulate traffic in specific areas of Thailand, experiment with different traffic light configurations, or test the impact of new road layouts before they are implemented.
+    * URL: https://github.com/eclipse-sumo/sumo
+2. OpenTraffic
+    * Description  
+    * Purpose      
+    * URL          
+    * Note01       
+        * The last GitCommit of some projects several years ago, which means that those projects are not maintained.
+3. UrbanFootprint
+    * Description  
+        * UrbanFootprint is a web-based software platform built to help planners and policy makers determine 
+          the best scenarios and outcomes for their communities. (https://sgc.ca.gov/tools/urban-footprint/)
+    * Purpose      
+    * URL          
+        1. Urban Footprint Overview Tutorial - Watch this First (by John Renne)
+        * He demonstrate how to create map using UrbanFootprint platform.
+        * https://youtu.be/zrQd0SXeSKo?si=OpH0O_5r1qozCR4Q 
+4. GraphHopper
+    * Description  
+        * It is an open-source route planning and navigation tool that can handle large-scale routing tasks.
+    * Purpose 
+        1. It help provide travel times, distances, turn instructions and path (route) between 2 locations.
+          It also takes travel time variations of peak hours and off-hours into account. 
+        2. It can solve Travelling Salesman Problem (deliver items or services to your customers).
+        3. It can tell the name of the selected or your current location and vice versa (Geocoding).
+    * Note
+        1. This software have free version and paid version.
+        2. GraphHopper Directions API is RESTful web services. It suppose C#, Ruby, PHP, Python, JavaScript, Postman etc.
+        * https://www.postman.com/api-evangelist/graphhopper/collection/p083tjy/graphhopper-directions-api
+    * Keyword
+        1. Travelling Salesman Problem
+        * This problem asks the following question: 
+          "Given a list of cities and the distances between each pair of cities, 
+          what is the shortest possible route that visits each city exactly once and returns to the origin city?"
+          It is an NP-hard problem. (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+        2. Map Tiles 
+        * It is the image file that represents a specific geographic area at a particular zoom level.
+        3. Geocoding 
+        * It is the process of transforming a description of a location—such as a pair of coordinates, 
+        an address, or a name of a place—to a location on the earth's surface.
+        (https://desktop.arcgis.com/en/arcmap/latest/manage-data/geocoding/what-is-geocoding.htm)
+    * URL: 
+        1. This website is about the purpose of GraghHopper API 
+        * https://www.graphhopper.com/products/
+        2. This website provide the tutorial on how to use this tools.
+        * https://github.com/graphhopper/graphhopper-navigation-example
+        3. Lists of recommended map tiles API 
+        * https://www.thunderforest.com/
+        * https://www.maptiler.com/cloud/
+        * https://graphhopper.com/maps/?profile=car&layer=Omniscale 
+    * Free Version (https://www.graphhopper.com/pricing/)
+        * Credits per day ______________ : 500
+        * Max. locations per request ___ : 5 locations 
+        * Routing API __________________ : Included
+        * Route Optimization API _______ : Included 
+        * Max. vehicles per request ____ : 1 vehicles
+        * Geocoding API ________________ : Included 
+        * Map Matching API _____________ : Not Included
+        * Max. locations per request ___ : Not Included
+        * Isochrone API ________________ : Not Included
+        * max. time ____________________ : Not Included
+        * Matrix API ___________________ : Included
+        * SLA __________________________ : Included 
+        * Support ______________________ : forum only
+        * White label __________________ : Not Included
+        * For Commercial Use ___________ : Cannot be used for commercial purpose.
+5. CityFlow 
+6. TRACI (Traffic Control Interface)
+7. MobilityDB
+8. osrm-backend (Open Source Routing Machine)
+9. Traffic Prediction Models
+
+
+
+
+

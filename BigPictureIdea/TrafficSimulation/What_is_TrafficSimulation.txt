@@ -1,0 +1,25 @@
+What is a traffic simulation?
+* A traffic simulation is a virtual replica of real traffic scenarios. 
+
+Purpose
+    Traffic simulation help design and test the effect of traffic infrastructure (e.g. road, building etc.).
+    It helps provide some answer for the following questions 
+    which enables planners to use available budgets and resources as efficiently as possible when expanding 
+    or reconstructing transportation systems.
+        * What are the best measures to reduce traffic-related emissions? 
+        * How can traffic be managed safely for all road users? 
+        * How to choose between a roundabout or adaptive traffic lights to guarantee a good traffic flow? 
+        * How to coordinate public transport service with smooth traffic operations?  
+        * What impact will new technologies like autonomous driving have on the network?
+
+3 Types of Traffic Simulation 
+    1. Macroscopic simulation 
+        * It considers only grouped traffic flow volumes.
+    2. Mesoscopic simulation
+        * It is based on individual agents, their average speed and grouped traffic flow volumes.
+    3. Microscopic simulation
+        * It is based on individual agents, their average speed and grouped traffic flow volumes
+          and how each individual agents react to the situation in continuous time.
+
+Reference
+* https://www.ptvgroup.com/en/application-areas/traffic-simulation

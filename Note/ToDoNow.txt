@@ -1,0 +1,9 @@
+
+To Do Now 
+1. Brief research about other similar project (lists after GraphHopper) in the ChatGPT_RecommendedSimilarProjects.txt list
+2. Research the 3-4 traffic data science projects on GitHub and Kaggle.
+3. Find the open source data set.
+4. Write the questions about the traffic problem in Thailand.
+   Try to find a small, useful, specialized and well defined traffic problem that is practically possible to solve.
+5. Do the data visualization about that data set.
+

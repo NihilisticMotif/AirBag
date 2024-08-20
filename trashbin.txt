@@ -1,0 +1,54 @@
+Geocoding
+ 
+        2. This website (https://github.com/graphhopper/graphhopper-navigation-example) provide the tutorial on how to use
+ 
+The travelling salesman problem (TSP)
+ 
+also known as the travelling salesperson problem
+ 
+3.
+ 
+    2. Help design and test the effect of traffic infrastructure (e.g. road, building etc.)
+ 
+Common Application of Traffic Simulation 
+    1. Design and test the effect of traffic infrastructure (e.g. road, building etc.)
+ 
+hich enables planners to use available budgets and resources as efficiently as possible when expanding 
+    or reconstructing transportation systems.
+ 
+se case 
+ 
+* What are the best measures to reduce traffic-related emissions? 
+* How can traffic be managed safely for all road users? 
+* How to choose between a roundabout or adaptive traffic lights to guarantee a good traffic flow? 
+* How to coordinate public transport service with smooth traffic operations?  
+* What impact will new technologies like autonomous driving have on the network?
+ 
+Also AirBag from Radiohead OK Computer is a cool song.
+* https://youtu.be/jNY_wLukVW0?si=CednETKUDpTwnwH8
+ 
+I like 
+ 
+Communication
+ 
+    * Summary
+        * Improve Traffic Light System 
+ 
+    * Summary 
+        * Create the app that allow user to report traffic conditions
+ 
+osures etc. using data from GPS data, traffic cameras, Google Maps, Grab etc.
+ 
+eak traffic times, accidents, road cl
+ 
+    * Summary
+        * Prediction e.g. bottlenecks, p
+ 
+** Thank ChatGPT for advice **
+* https://youtu.be/xZUBP-uWwUE?si=Eyh9VAsSKXAHLwDm
+ 
+        * 
+ 
+** Key Idea **
+    * Prediction e.g. bottlenecks, peak traffic times, accidents, road closures etc. using data from GPS data, traffic cameras, Google Maps, Grab etc.
+ 

@@ -1,0 +1,21 @@
+
+Example of Intelligent Transport System
+1. Traffic Navigation
+2. Traffic Light Control 
+3. Car Plate Recognition 
+4. Speed Recognition 
+5. Accident Detection and Prediction
+6. Detecting Offending vehicle
+* Red Light Violation
+* Car Plate Recognition 
+* Speed Violation Recognition 
+7. Variable Message Signs
+* Show suitable traffic symbol.
+8. Variable Speed Limit Signs 
+* Show suitable maximum traffic speed.
+9. Electronic Toll Payment 
+* Automatically pay money on the high ways.
+
+Reference
+* What is Intelligent Transport System? (by Gurukul of Civil Engineers)
+* https://youtu.be/RuUGDr71HOs?si=S42YmxOK_tqJDGnO

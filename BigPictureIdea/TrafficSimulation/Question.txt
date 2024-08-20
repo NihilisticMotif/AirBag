@@ -1,0 +1,9 @@
+Questions
+1. How does Traffic Simulation accurately simulated real world traffic ?
+    * Is Traffic Simulation a ML Model ?
+    * What dataset is Traffic Simulation based on ?
+    * What algorithm is Traffic Simulation system based on ?
+2. How to measure the accuracy of the Traffic Simulation ?
+    * What are the limitation of Traffic Simulation ?
+
+
