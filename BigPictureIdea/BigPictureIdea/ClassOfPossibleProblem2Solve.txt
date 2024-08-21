@@ -1,0 +1,6 @@
+Class of Possible Problems to Solve 
+1. Traffic Jam prediction.
+2. Traffic Demand Predictions 
+3. Air pollution traffic relationships prediction 
+4. Driver and Iot data set
+5. Accidents prediction

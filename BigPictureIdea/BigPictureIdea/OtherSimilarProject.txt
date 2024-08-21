@@ -2,4 +2,23 @@
     * Purpose
         It is the software that help the user find the toilet. (https://www.springnews.co.th/digital-tech/technology/837318)
         It might not be open source.
-
+2. Google Map 
+    * Purpose 
+        It is used for show the map around the world and show recommended path between 2 selected places.
+    * Limitation 
+        1. It is not good at recieve sound input from the user. This feature is very useful, when the user drive the car.
+        2. It is not an open source project, which limit the free data the developer can get for creating new project and harder to share data to other developer and user.
+3. BUCA ภาคีจักรยานเมือง กรุงเทพฯ 
+    * URL
+        1. YouTube Channel
+        * https://www.youtube.com/@BangkokStreetCyclists/videos
+        2. Facebook Page
+        * https://www.facebook.com/urbancyclingbkk/?locale=th_TH
+4. Open Street Map
+    * Description
+        * OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+    * URL 
+        1. Official Website 
+        * https://www.openstreetmap.org/#map=6/13.15/101.49
+    
+    
