@@ -1,0 +1,25 @@
+OpenStreetMap
+    Pro 
+    1. launched in 2004, is built by volunteers with an open-content license
+    2. It is editable and give you unlimited access to the data behind them.
+    3. data can be used completely offline with plugins (Nominatim and Leaflet)
+
+Nominatim
+    1. It is an open-source project for geocoding and reverse geocoding with OSM.
+    2. Suitable for large companies that use GPS. 
+    3. The geocoding engine, based on PostgreSQL databases, is well optimized and faster than Google Maps’ geocoding when working on a single server with a certain app. 
+
+Leaflet 
+    1. It is open-source library to integrate with the OSM user interface.
+    2. It allows you to render maps inside your web app, display markers, or use plugins to provide detailed routing information and other interactions. 
+
+Google Map 
+    Pro
+    1. Better UXUI
+    Con 
+    1. Owned by Google as close source.
+    2. limited the number of free requests
+    3. Not free for large scale use case.
+
+Reference
+* https://blurify.com/blog/google-maps-vs-openstreetmap/

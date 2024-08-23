@@ -1,0 +1,15 @@
+How can I get involved?
+    1. Anyone can help by improving map data!
+    2. Technically, OpenStreetMap is a database, and not what everyday language calls a 'map'. There are many software applications, known as editors, that can be used to edit the database. Before you can edit any data you will need to create an OSM account.
+    3. See this https://wiki.openstreetmap.org/wiki/Editors
+
+How do you communicate?
+    1. Mailing lists https://wiki.openstreetmap.org/wiki/Mailing_lists
+    2. help.openstreetmap.org https://wiki.openstreetmap.org/wiki/Help.openstreetmap.org
+    3. ...
+
+Is there any ongoing scholarly research on OpenStreetMap?
+    * https://wiki.openstreetmap.org/wiki/Research
+
+Reference
+    * https://wiki.openstreetmap.org/wiki/FAQ#Why_OpenStreetMap?

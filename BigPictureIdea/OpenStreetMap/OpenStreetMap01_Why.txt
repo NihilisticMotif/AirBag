@@ -1,0 +1,30 @@
+Why OpenStreetMap ?
+    1. Geographical data (geo data) is not free in many parts of the world. 
+    2. Close source data might not correct, but most people cannot correct it.
+    3. You cannot get the data. Photocopy might be illegal.
+    4. You cannot share your close source data to anyone without money.
+    5. Cheap GPS help you create your own open source maps.
+
+How can a project like this create accurate maps?
+    1. By the very nature of the wiki-style process there is no guarantee of accuracy of any kind. Then again, few proprietary maps carry a guarantee of accuracy, either.
+    2. If one person puts in inaccurate data, maliciously or accidentally, the other 99.9% of people can check it, fix it, or get rid of it.
+    3. It can be difficult to weed out the inevitable errors.
+    4. There is a History tab on the main page that shows recent edits to the selected area.
+       * the main page (https://www.openstreetmap.org/#map=11/21.4719/-157.9604)
+    5. One way is to pick an area that you know well and use the OpenStreetMap viewer to see how well the map data corresponds to your own knowledge.
+
+You seem to have a lot of existing map data. Where did it come from?
+    * In areas where there are no such data sources (most areas) we have to start from a blank slate, and head out there to survey the streets ourselves.
+    * https://wiki.openstreetmap.org/wiki/Import/Catalogue
+
+Why is the data sometimes inconsistent?
+    1. OpenStreetMap is a free editable map of the whole world. It is made by people like you.
+    2. The fact that the data is open source and any one can edit it, allow the data to be upated.
+
+Who owns OpenStreetMap?
+    * U
+
+
+
+Reference   
+    * https://wiki.openstreetmap.org/wiki/FAQ#Why_OpenStreetMap?

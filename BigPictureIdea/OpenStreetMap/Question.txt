@@ -1,0 +1,28 @@
+Variable 
+* OMap = Open Street Map 
+* GMap = Google Map 
+* &Map = OMap and GMap
+
+Question about &Map 
+1. What are limitation of &Map ?
+2. What are pro and con of &Map ?
+3. How does &Map get its own data ?
+4. Does Text-Sound AI exists in &Map software ? If so, how does Text-Sound AI perform ?
+
+Question about OMap 
+1. How to get real time data from OMap ?
+2. What are examples of open source data science project that mainly use OMap dataset ?
+3. Does OMap have the following ability ?
+    1. Geocoding 
+    2. Solve the Travelling Salesman Problem (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+    3. Show the recommended path based on path distance, real time data, time data and traffic jam prediction ?
+    4. Create picture of the map.
+    5. have Traffic Demand Predictions Model ?
+    6. Air pollution traffic relationships prediction Model ?
+4. What data are available in OMap ?
+5. How much OMap beginner friendly tutorial are available in Google ?
+
+Note that
+1. OMap is open source and GMap is not open source.
+2. Sound input system of GMap is not good.
+3. GMap help avoid traffic jam.

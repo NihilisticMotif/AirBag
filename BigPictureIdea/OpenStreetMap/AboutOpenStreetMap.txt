@@ -1,0 +1,33 @@
+What is OpenStreetMap ?
+    * Technically, OpenStreetMap is a database, and not what everyday language calls a 'map'. There are many software applications, known as editors, that can be used to edit the database.
+    * https://wiki.openstreetmap.org/wiki/Editors
+
+Introduction
+    * The OpenStreetMap License allows free (or almost free) access to our map images and all of our underlying map data. 
+
+The Map 
+    * The map is widely used, but it isn't finished yet.
+
+Mapping 
+    Message
+    * We are getting out from behind our computer screens, and surveying towns and countryside to create our maps
+    * If you have a GPS unit you can contribute any tracks you have recorded.
+    * We are also able to derive maps from Bing aerial imagery or other mapping techniques. 
+    * You can start editing our maps straight away using the online "iD" editor, or download the JOSM desktop application.
+    URL 
+    * Bing https://wiki.openstreetmap.org/wiki/Bing_Maps
+    * Mapping techniques https://wiki.openstreetmap.org/wiki/Mapping_techniques
+    * iD https://wiki.openstreetmap.org/wiki/ID
+    * JOSM https://wiki.openstreetmap.org/wiki/JOSM
+
+Development 
+    * There is opportunity for subprojects that work with or use our data, but we also need help fixing bugs and adding features to our core components.
+
+Using OpenStreetMap data
+    * If you are looking for how to use OpenStreetMap data following topic will be of interest for you:
+    1. leaflet - for showing OpenStreetMap-based maps and other data
+    2. Overpass API + Overpass Turbo - extracting some limited OSM data from the database
+    3. planet - obtaining all data from the database
+
+Reference
+* https://wiki.openstreetmap.org/wiki/About_OpenStreetMap

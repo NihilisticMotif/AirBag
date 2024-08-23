@@ -7,3 +7,7 @@ To Do Now
    Try to find a small, useful, specialized and well defined traffic problem that is practically possible to solve.
 5. Do the data visualization about that data set.
 
+To Do Now 02
+1. What is Traffic Simulation ?
+2. What is Open Street Map ?
+3. Example of Traffic Data Science project.

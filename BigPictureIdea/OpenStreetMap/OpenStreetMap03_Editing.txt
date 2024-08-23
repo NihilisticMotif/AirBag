@@ -1,0 +1,58 @@
+What images and maps may I use to make maps from?
+    Message
+    1. Most maps have copyright restrictions.
+    2. You should not use copyrighted maps in any way while editing OpenStreetMap (unless it is compatible with our license).
+       * https://opendatacommons.org/licenses/odbl/
+    3. So what can you use? Not very much, which is why we are doing all this re-surveying from scratch.
+    4. However OSM has permission to use some datasources including imported TIGER data in the USA, AND Data in the Netherlands, and recent aerial imagery from Bing and Mapbox.
+    Source 
+    1. https://wiki.openstreetmap.org/wiki/Potential_datasources
+    2. https://wiki.openstreetmap.org/wiki/TIGER
+    3. ...
+
+I have just made some changes to the map. How do I get to see my changes?
+    1. The "standard" map appearing on OpenStreetMap.org tends to be updated after a couple of minutes, but can also be longer depending on server load
+    2. Depending on your browser, you can try to 'force reload/refresh' the content. Check your software for the key combination (Ctrl+F5 and⇧ Shift+Ctrl+R are common).
+       * https://wiki.openstreetmap.org/wiki/Browser_cache
+    3. If your data is still not appearing and you are pretty sure that the one or the other renderer has done its job, then you might have a tagging problem. Check that 
+       * Run JOSM validator or, if edit is old, check area on Osmose. Or use other QA tool
+       * all your ways are tagged with something appropriate that will be rendered (e.g. highway=tertiary). However, do not tag an object with unsuitable tags just to get it shown on a specific map.
+       * your tags are in lower case: highway instead of HIGHWAY or Highway.
+       * you use an underscore “_” instead of a space in tags such as highway=bus_stop
+
+Do I need to own a GPS device to contribute to the map?
+    1. No.
+    2. GPS devices were therefore useful to determine the position of roads and other map features. 
+    3. GPS devices were therefore useful to determine the position of roads and other map features. 
+    4. You can still upload your GPS track logs (also called traces) to OpenStreetMap
+
+What GPS should I buy? Can I use a "satnav" in-car unit?
+    * Some in-car units will generate the tracklogs that OSM use, but you must make sure you turn off the "Snap to Road" option
+
+I have public domain non-GPS data, how can I upload it?
+    * If you have public domain data obtained from non-GPS sources (for example, a municipality's public information website), it may be suitable for importing.
+    * https://wiki.openstreetmap.org/wiki/Import/Guidelines
+
+Why is the satellite imagery low resolution? Is there other satellite imagery that I can use that has more detail? Can you update it? How often is it updated?
+    * The Aerial Imagery is from a variety of sources that we have permission to use – Bing is the most popular worldwide and have the largest coverage.
+    * OSM neither controls nor owns the satellite imagery, so we cannot request updates.
+
+What shall I do for roads that have multiple values for a tag?
+    1. Where different tag values apply to different sections of a road, we always split the road up into several ways.
+    2. If you worry about how to represent the whole length of road, you might look at using relations to re-group ways.
+    3. If you have multiple different values for the same key, applying to the same element, then you may need to use the semi-colon value separator. For example, nat_ref=B500;B550.
+
+Another user has changed something I edited. I think they're wrong. How do I contact them?
+    1. On one of the map layers on OpenStreetMap.org, zoom in and click the query features button button to enter query mode. 
+    2. In iD (the in-browser editor), select the object and click on "View in OpenStreetMap" at the bottom left.
+    3. ...
+
+How do I track edits of a region?
+    * https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_Tools
+
+How to remove an object from the map?
+    * If a physical object (e.g. a building) does not exist and is not visible on the latest aerial or satellite imagery, simply remove it.
+    * If a physical object (e.g. a building) has been recently demolished, it can be removed, but it is good practice to change the tags, for example, from [building] to [demolished:building=yes]. Such a building will no longer be visible on the map, but this will ensure that someone who maps from satellite imagery will not add it again.
+
+Reference
+    * https://wiki.openstreetmap.org/wiki/FAQ#Why_OpenStreetMap?
