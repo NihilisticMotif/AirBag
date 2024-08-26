@@ -1,0 +1,41 @@
+Introduction 
+    * The Overpass API is a read-only API that serves up custom selected parts of the OSM map data. 
+      It acts as a database over the web.
+    * It is used as data base of many service.
+
+Quick Start (60 seconds): for Developers/Programmers
+    * ...
+
+The Programmatic Query Language (OverpassQL)
+    * ...
+
+Public Overpass API instances
+    * To support small and well scaling OSM main services, Overpass API is run as a third party service.
+
+Community: where can I get help?
+    1. Note that Overpass Turbo is documented separately to the Overpass API itself.
+    2. The Overpass API documentation isn't searchable and won't actually help you much unless you are already very familiar with the Overpass API itself.
+    3. There are several community sites providing help for Overpass API and overpass turbo related questions. 
+    4. If you ask a question on a real-time help site such as IRC or Slack, then obviously you'll get an up to date answer.
+    5. Only the IRC and OSM Help links are managed by the OSM community - the other sites are controlled by third parties.
+    * https://community.openstreetmap.org/
+    * ...
+
+Developers / System Administrators
+    * Contributions like bug reports or pull requests to the source code are welcome.
+
+Limitations
+    1. Download big data 
+    * The size of an Overpass API query result is only known when the download is complete.
+    * The dynamically generated files from Overpass API typically take longer to generate and download than downloading existing static extracts of the same region.
+    * It is better to use Planet.osm than Overpass API to extract country-sized regions with all (or nearly all) data in it.
+    * Overpass API is most useful when the amount of data needed is only a selection of the data available in the region.
+    2. Querying of OSM data history
+    * Overpass API doesn't offer changeset-based criteria. It's possible to work around that, by using time-based diffs, but this may be clumsy.
+    3. Database lag
+    * It can take a couple of minutes for changes to the database to show up in the Overpass API query results.
+
+
+
+Reference 
+* https://wiki.openstreetmap.org/wiki/Overpass_API

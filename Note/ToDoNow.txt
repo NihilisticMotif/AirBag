@@ -8,6 +8,9 @@ To Do Now
 5. Do the data visualization about that data set.
 
 To Do Now 02
-1. What is Traffic Simulation ?
-2. What is Open Street Map ?
-3. Example of Traffic Data Science project.
+1. Learn how and why to use Request Library in Python ?
+2. Learn how to use Requests with Overpass API.
+3. Research what open source project work with in ClassOfPossibleProblem2Solve.txt scope.
+   * BigPictureIdea / BigPictureIdea / ClassOfPossibleProblem2Solve.txt 
+4. In the future, I might use Leaflet, React and Typescript as the Front End.
+

@@ -1,0 +1,31 @@
+Leaflet.js is an Open Source JavaScript library that makes deploying maps on a web page easy.
+It is used for creating mapping software.
+
+Companies who are already touted as using Leaflet include 
+    * Flickr
+    * foursquare
+    * GitHub
+    * Data.gov
+    * IGN
+    * The Washington Post
+    * OSM
+    * Evernote
+    * Financial Times
+    * Pintrest
+    * Open Street Map. 
+
+Property of Leaflet 
+1. It is the most popular open source Javascript geology library.
+2. It is good for beginner, small project and proto type project.
+3. It is not good when create large scale project.
+4. You can easily integrate it with React and Typescript.
+
+Reference 
+1. OpenStreetMap website show brief information about Leaflet
+* https://wiki.openstreetmap.org/wiki/Leaflet
+2. YouTuber explain the benefit and limitation of Leaflet 
+* https://youtu.be/sxf4f_3o87A?si=Z3R4UU62G722dqpL
+3. YouTuber show how to use Leaflet with Javascript.
+* https://youtu.be/nZaZ2dB6pow?si=e2m75YuojYyaja4j
+4. Another YouTuber show how to use Leaflet with Javascript.
+* https://youtu.be/wVnimcQsuwk?si=PsXDmIvXPyXHhV5J

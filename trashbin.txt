@@ -1,3 +1,19 @@
+We can access this API using requests library from Python.
+ 
+(formerly known as OSM Server Side Scripting, or OSM3S before 2011) 
+ 
+(formerly known as OSM Server Side Scripting, or OSM3S before 2011) 
+ 
+* https://youtu.be/sxf4f_3o87A?si=Z3R4UU62G722dqpL
+ 
+* https://youtu.be/sxf4f_3o87A?si=Z3R4UU62G722dqpL
+ 
+    * The layer called "Standard" is the default. "Cycle Map", "Transport Map", "ÖPNVKarte", "Humanitarian", "CyclOSM" and "Tracestrack Topo" 
+        are alternatives. The styles look quite different. Which is better, is often a matter of personal preference. 
+        One layer may be more out-of-date compared to another (recently mapped roads not showing up).
+ 
+(from the Latin, 'by name') 
+ 
 he map 
  
     4. 

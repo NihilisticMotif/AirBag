@@ -1,0 +1,56 @@
+The Overpass API is a read-only API that serves up custom selected parts of the OSM map data. It acts as a database over the web.
+
+OSM uses basic data structures
+1. node
+* Nodes also save a latitude and longitude, indicating where the node is located on the world.
+2. way
+* Ways contain a list of the nodes
+3. relation. 
+* Relations are groups of nodes, ways and relations defining a logical relationship for this elements, 
+  for example being part of the same street, neighbourhood, city, postal code area, etc.
+Each element can have multiple tags, which consist of a key-value pair and they help specify the features of each element.
+
+If we go to https://www.openstreetmap.org/, right-click on some point of the map and then click on Query Features, 
+we get a list of the elements of the area. 
+
+We can query the information from OpenStreetMap using Overpass QL. There are 3 possible query outputs
+1. xml 
+    * Default
+2. json 
+    * we need to add [out:json] in front of it
+3. csv 
+    * we need to define the list of columns for it to work.
+
+There are 2 main ways to use Overpass in Python
+1. Requests library
+* Overpass Python Tutorial: https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0
+```
+import requests
+
+overpass_url = 'https://overpass-api.de/api/interpreter'
+overpass_query = '''
+[out:json];
+area[name="Zürich"][place="city"];
+node[amenity="toilets"](area);
+out;
+'''
+
+response = requests.get(overpass_url, params={'data': overpass_query})
+```
+```
+import overpass 
+api = overpass.API(endpoint="https://overpass.myserver/interpreter", timeout=25)
+```
+2. Other tools
+
+Reference
+1. Overpass API
+* https://wiki.openstreetmap.org/wiki/Overpass_API
+2. OpenStreetMap, Overpass API and Python
+* https://pybit.es/articles/openstreetmaps-overpass-api-and-python/
+3. This video teaches how to use Request API 
+* https://youtu.be/Xi1F2ZMAZ7Q?si=-SpMrV3gHtDDJfC-
+* https://youtu.be/7Y186Ycq3EI?si=LDRkzOamkQmRtE-p
+
+
+

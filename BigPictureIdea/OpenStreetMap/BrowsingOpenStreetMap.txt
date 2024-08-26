@@ -1,0 +1,46 @@
+
+Move Map 
+    * Zoom in/out 
+    * Pan and scroll around 
+    * Get my location by click in the arrow on the right side.
+
+Finding Place 
+    * Search Place by name in Left side input bar.
+    1. Nominatim is a tool to search OSM data by name and address (geocoding) and to generate synthetic addresses of OSM points 
+        * https://wiki.openstreetmap.org/wiki/Nominatim
+    2. Mapping projects are collaborative efforts by people with common interests to map a 
+        particular territory or to improve mapping for a particular topic.
+        * https://wiki.openstreetmap.org/wiki/Mapping_projects
+
+Layers 
+    * Layer located on the right side of UI.
+    * Just use Standard Layer because 
+        1. Some later might be outdated
+        2. The layer coes not matter, except personal preference
+        3. Standard layer is default layer,
+        4. In the Standard Layer, the basic key available showing how different types of primitives (mainly roads) on the map are rendered.
+    * You can view additional data on the Right side Layer bar.
+        1. Note 
+            Click this to view any notes which people may have placed on the map here. 
+        2. Map Data 
+            Click this to view of the underlying data, allowing you to select the elements and view their tag data, and editing history. 
+            Similar features are also available within the editors (See Editing). This view is read-only.
+            There is also an easier data interface: use the query features tool on the right side of UI below the layer button.
+        3. Public GPS traces
+            Final checkbox allows enabling and disabling GPS traces submitted by people. 
+            This may be useful to find places with unmapped roads and paths.
+
+Sharing a link to the maps 
+    1. There is Share Panel on the right side.
+    2. To share copying the URL from your browser's address bar and pasting it
+    3. Search bar on left side.
+    4. Click ? on the right side.
+    5. You can click including market or disabling it, but when download the image of map, it does not include the market.
+    6. You can share short link, if long link have an issue.
+
+Alternative 
+    * See more: https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services
+
+Reference 
+    * https://wiki.openstreetmap.org/wiki/Browsing
+    * https://www.openstreetmap.org/#map=19/13.727015/100.539176

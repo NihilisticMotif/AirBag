@@ -6,4 +6,5 @@ Questions
 2. How to measure the accuracy of the Traffic Simulation ?
     * What are the limitation of Traffic Simulation ?
 
-
+Note 
+    * Does the Traffic Simulator Use Live Traffic Data? No, the Traffic Simulator does not use live traffic data like Google Maps does. It is based on traffic data from an open-source map provider called OSM (Open Street Maps).
